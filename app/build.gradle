@@ -29,10 +29,10 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file("C:\\Users\\gayathri.tummala\\AndroidStudioProjects\\android-testing-master\\android-testing-master\\unit\\BasicSample\\apprelease.keystore")
-            storePassword "sdm555..."
+            storeFile file("C:\\Demo App\\mykeystore")
+            storePassword "MyP@ssw0rd01"
             keyAlias "mykey"
-            keyPassword "sdm555..."
+            keyPassword "MyP@ssw0rd01"
         }
     }
     buildTypes {
