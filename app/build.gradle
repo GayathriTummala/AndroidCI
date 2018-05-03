@@ -29,7 +29,7 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file("release.keystore")
+            storeFile file("C:\\Program Files (x86)\\Jenkins\\workspace\\android quick start\\app\\release.keystore")
             storePassword "sdm555..."
             keyAlias "mykey"
             keyPassword "sdm555..."
