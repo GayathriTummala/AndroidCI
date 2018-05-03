@@ -29,7 +29,7 @@ android {
     }
     signingConfigs {
         release {
-            storeFile file("C:\\Demo App\\mykeystore")
+            storeFile file("C:\\Demo App\\mykeystore.jks")
             storePassword "MyP@ssw0rd01"
             keyAlias "mykey"
             keyPassword "MyP@ssw0rd01"
