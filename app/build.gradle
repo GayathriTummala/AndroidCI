@@ -31,7 +31,7 @@ android {
         release {
             storeFile file("C:\\Demo App\\mykeystore.jks")
             storePassword "sdm555..."
-            keyAlias "myAndroidKey"
+            keyAlias "mykey"
             keyPassword "sdm555..."
         }
     }
