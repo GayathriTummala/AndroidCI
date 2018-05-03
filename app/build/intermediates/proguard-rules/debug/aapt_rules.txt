@@ -1,0 +1,9 @@
+# Referenced at C:\Users\gayathri.tummala\AndroidStudioProjects\android-testing-master\android-testing-master\unit\BasicSample\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:31
+-keep class com.example.android.testing.unittesting.BasicSample.MainActivity { <init>(...); }
+
+# Referenced at C:\Users\gayathri.tummala\AndroidStudioProjects\android-testing-master\android-testing-master\unit\BasicSample\app\src\main\res\layout\activity_main.xml:0
+-keepclassmembers class * { *** onRevertClick(...); }
+
+# Referenced at C:\Users\gayathri.tummala\AndroidStudioProjects\android-testing-master\android-testing-master\unit\BasicSample\app\src\main\res\layout\activity_main.xml:0
+-keepclassmembers class * { *** onSaveClick(...); }
+
